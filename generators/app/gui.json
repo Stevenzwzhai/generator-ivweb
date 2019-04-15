@@ -1,0 +1,15 @@
+{
+  "requireInfo": [{
+    "type": "name",
+    "desc": "项目名称",
+    "defaultValue": ""
+  }, {
+    "type": "description",
+    "desc": "项目描述",
+    "defaultValue": "项目基本描述"
+  }, {
+    "type": "version",
+    "desc": "项目版本",
+    "defaultValue": "0.1.0"
+  }]
+}
